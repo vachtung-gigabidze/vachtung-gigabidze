@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![plot](./ruStore.png)
 <!--
 **vachtung-gigabidze/vachtung-gigabidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
