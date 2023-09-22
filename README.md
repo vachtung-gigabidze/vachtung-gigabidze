@@ -1,6 +1,6 @@
 ### Hi there 👋
-<a href="https://www.sandromaglione.com/">
-    <img alt="website: sandromaglione.com" src="https://img.shields.io/badge/website-sandromaglione.com-blue" target="_blank" />
+<a href="https://www.ruStore.ru/">
+    <img alt="website: ruStore.ru" src="https://github.com/vachtung-gigabidze/vachtung-gigabidze/blob/main/ruStore.png" target="_blank" />
   </a>
 <!--
 **vachtung-gigabidze/vachtung-gigabidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
