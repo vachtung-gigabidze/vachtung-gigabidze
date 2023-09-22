@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://apps.rustore.ru/app/ru.ziidik.qlutter">
-    <img alt="website: rustore.ru" src="https://github.com/vachtung-gigabidze/vachtung-gigabidze/ruStore.png" target="_blank" />
+  ![plot](./ruStore)
   </a>
 
 <!--
