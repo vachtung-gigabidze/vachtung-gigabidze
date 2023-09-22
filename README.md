@@ -1,5 +1,8 @@
 ### Hi there 👋
-![plot](./ruStore.png)
+<a href="https://apps.rustore.ru/app/ru.ziidik.qlutter">
+    <img alt="website: rustore.ru" src="https://github.com/vachtung-gigabidze/vachtung-gigabidze/ruStore.png" target="_blank" />
+  </a>
+
 <!--
 **vachtung-gigabidze/vachtung-gigabidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
