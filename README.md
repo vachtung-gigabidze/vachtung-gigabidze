@@ -1,8 +1,7 @@
 ### Hi there 👋
-<a href="https://apps.rustore.ru/app/ru.ziidik.qlutter">
-  ![plot](./ruStore)
+<a href="https://www.sandromaglione.com/">
+    <img alt="website: sandromaglione.com" src="https://img.shields.io/badge/website-sandromaglione.com-blue" target="_blank" />
   </a>
-
 <!--
 **vachtung-gigabidze/vachtung-gigabidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
