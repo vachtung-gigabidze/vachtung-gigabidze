@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://trk.mail.ru/c/me10h4?bundle_id=ru.ziidik.qlutter">
+<a href="https://apps.rustore.ru/app/ru.ziidik.qlutter">
     <img alt="app: qlutter" src="https://github.com/vachtung-gigabidze/vachtung-gigabidze/blob/main/ruStore.png" target="_blank" />
   </a>
 <!--
