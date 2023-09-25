@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Qlutter
+## Qlutter
 <a href="https://apps.rustore.ru/app/ru.ziidik.qlutter">
     <img alt="app: qlutter" src="https://github.com/vachtung-gigabidze/vachtung-gigabidze/blob/main/ruStore.png" target="_blank" />
   </a>
