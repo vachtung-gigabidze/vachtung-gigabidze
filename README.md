@@ -1,9 +1,11 @@
 <a href="https://apps.rustore.ru/app/ru.ziidik.qlutter">
     <img alt="app: qlutter" src="https://github.com/vachtung-gigabidze/vachtung-gigabidze/blob/main/ruStore.png" target="_blank" />
   </a>
-  <a href="https://ziidik.qlutter">
+<a href="https://ziidik.qlutter">
     <img alt="app: qlutter" src="https://github.com/vachtung-gigabidze/qlutter/blob/main/images/logo.png" target="_blank" />
-  </a>
+</a>
+
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vachtung-gigabidze&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vachtung-gigabidze&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vachtung-gigabidze&theme=prussian)
