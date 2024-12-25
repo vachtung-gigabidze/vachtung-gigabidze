@@ -1,5 +1,5 @@
 <a href="https://apps.rustore.ru/app/ru.ziidik.qlutter">
-     <img alt="app: qlutter" src="https://github.com/vachtung-gigabidze/vachtung-gigabidze/blob/main/ruStore.png" target="_blank" width="75" /> 
+     <img alt="app: qlutter" src="https://github.com/vachtung-gigabidze/vachtung-gigabidze/blob/main/ruStore.png" target="_blank" width="200" /> 
   </a>
 <a href="https://qlutter.ziidik.ru">
 <!--     ![qlutter](https://github.com/user-attachments/assets/c3235302-7520-44bf-bc23-a58317b5a0eb) -->
