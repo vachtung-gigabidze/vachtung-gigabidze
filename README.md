@@ -5,8 +5,9 @@
 <!--     ![qlutter](https://github.com/user-attachments/assets/c3235302-7520-44bf-bc23-a58317b5a0eb) -->
     <img alt="app: qlutter" src="https://github.com/user-attachments/assets/c3235302-7520-44bf-bc23-a58317b5a0eb" target="_blank" width="75"/>
 </a>
-
-
+<a href="https://tictactoe.ziidik.ru">
+     <img alt="app: tictactoe" src="https://github.com/user-attachments/assets/faca6c14-e0ea-4b12-82d5-5614978af7a5" target="_blank" width="75"/>
+</a>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vachtung-gigabidze&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vachtung-gigabidze&theme=prussian)
