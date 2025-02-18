@@ -8,6 +8,10 @@
 <a href="https://tictactoe.ziidik.ru">
      <img alt="app: tictactoe" src="https://github.com/user-attachments/assets/faca6c14-e0ea-4b12-82d5-5614978af7a5" target="_blank" width="75"/>
 </a>
+<a href="https://lesyalys.github.io/novella.io/">
+    <img width="75" alt="novella_icon" src="https://github.com/user-attachments/assets/e6cf961f-f898-4fe6-89c4-2b2db9fa822a" />    
+</a>
+
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vachtung-gigabidze&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vachtung-gigabidze&theme=prussian)
