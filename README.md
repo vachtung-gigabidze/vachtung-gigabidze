@@ -11,6 +11,10 @@
 <a href="https://lesyalys.github.io/novella.io/">
     <img width="75" alt="novella_icon" src="https://github.com/user-attachments/assets/e6cf961f-f898-4fe6-89c4-2b2db9fa822a" />    
 </a>
+<a href="https://vachtung-gigabidze.github.io/novella_mobile_editor_web/">
+    <img width="75" alt="icon2" src="https://github.com/user-attachments/assets/ebfeeb7c-9b19-4feb-ac9b-f15a99440181" />
+
+</a>
 
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vachtung-gigabidze&theme=prussian)
