@@ -15,11 +15,13 @@
     <img width="75" alt="icon2" src="https://github.com/user-attachments/assets/ebfeeb7c-9b19-4feb-ac9b-f15a99440181" />
 
 </a>
+<p>
+     
 
 <a href="https://www.codewars.com/users/dmitryzyadik">
     <img src="https://www.codewars.com/users/dmitryzyadik/badges/large" style="max-width: 100%;/>
 </a>
-
+</p>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vachtung-gigabidze&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vachtung-gigabidze&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vachtung-gigabidze&theme=prussian)
