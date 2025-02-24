@@ -18,16 +18,16 @@
 
      
 
-<a href="https://www.codewars.com/users/dmitryzyadik">
-    <img src="https://www.codewars.com/users/dmitryzyadik/badges/large" style="width: 100%;/>
-</a>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vachtung-gigabidze&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vachtung-gigabidze&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vachtung-gigabidze&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vachtung-gigabidze&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vachtung-gigabidze&theme=prussian&utcOffset=5)
-
+<a href="https://www.codewars.com/users/dmitryzyadik">
+    <img src="https://www.codewars.com/users/dmitryzyadik/badges/large" style="max-width: 100%;/>
+</a>
 <!--
 **vachtung-gigabidze/vachtung-gigabidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
