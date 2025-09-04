@@ -16,7 +16,8 @@
 
 </a>
 <a href="https://vachtung-gigabidze.github.io/novella_mobile_editor_web_v2/">
-<img width="75" alt="icon3" src="https://github.com/user-attachments/assets/51965599-10bd-4258-84b1-68067fdaff75" />
+
+<img width="75" alt="icon3" src="https://github.com/user-attachments/assets/2ff250ec-fc51-4d74-8162-8e16afa8290d" />
 
 </a>
 
